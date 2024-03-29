@@ -52,7 +52,7 @@ const DisplayWeather = () => {
   };
 
   const handleSearch = async () => {
-    if (searchCity.trim() === " ") {
+    if (searchCity.trim() === "  ") {
       return;
     }
     try {
