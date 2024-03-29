@@ -4,12 +4,13 @@
 
 <h2>🚀 Demo</h2>
 
+
 [https://weather-app-miniproj.netlify.app/](https://weather-app-miniproj.netlify.app/)
 
 <h2>Project Screenshots:</h2>
 
-<img src="" c:\users\acer\desktop\screenshot="" 2024-03-29="" 194114.png""="" alt="project-screenshot" width="400" height="400/">
 
+![Screenshot 2024-03-29 194114](https://github.com/Abilash-Nambi/Weather-App/assets/142148604/9d365ab3-842f-41e3-ae94-c14357522353)
   
   
 <h2>💻 Built with</h2>
