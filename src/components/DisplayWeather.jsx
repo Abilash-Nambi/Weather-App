@@ -108,7 +108,7 @@ const DisplayWeather = () => {
         <div className="searchArea">
           <input
             type="text"
-            placeholder="enter a city"
+            placeholder="Enter a city"
             value={searchCity}
             onChange={(e) => setSearchCity(e.target.value)}
           />
